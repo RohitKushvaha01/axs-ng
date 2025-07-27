@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This version not meant for general use consider using the official version instead
+
+
 # acodex_server
 
 `acodex_server` is a Rust-based backend/server for the `Acodex plugin`. It provides a **lightweight**, **independent**, **secure**, and **fast** solution.
